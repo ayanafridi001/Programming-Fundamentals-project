@@ -4,9 +4,9 @@ My 1st semester project of coding in C++ language
 I had made a Pak-Wheels website replicate using basic concepts of programming 
 
 ## Concepts used
-/n Condtional statements
-Arrays
-Functions
+Condtional statements\
+Arrays\
+Functions\
 Pointers
 Structure
 Class
