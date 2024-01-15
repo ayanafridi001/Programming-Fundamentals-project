@@ -3,7 +3,7 @@ My 1st semester project of coding in C++ language
 ## Using C++
 I had made a Pak-Wheels website replicate using basic concepts of programming 
 
-##Concepts used:
+## Concepts used
 Condtional statements
 Arrays
 Functions
