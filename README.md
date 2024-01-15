@@ -7,8 +7,8 @@ I had made a Pak-Wheels website replicate using basic concepts of programming
 Condtional statements\
 Arrays\
 Functions\
-Pointers
-Structure
-Class
-File handling
-Read/Write files
+Pointers\
+Structure\
+Class\
+File handling\
+Read/Write files\
