@@ -4,7 +4,7 @@ My 1st semester project of coding in C++ language
 I had made a Pak-Wheels website replicate using basic concepts of programming 
 
 ## Concepts used
-Condtional statements
+Condtional statements;
 Arrays
 Functions
 Pointers
